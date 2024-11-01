@@ -1,5 +1,6 @@
 # dbt Project with Snowflake, AWS, and dbt
 
+![dbt_diagram](https://github.com/user-attachments/assets/00112dcb-3002-46ef-9616-876cc989e1d9)
 
 This repository contains a dbt project that leverages AWS as the storage layer, Snowflake as the data warehouse, and dbt (data build tool) for data transformation and analysis. The project implements a structured data pipeline with bronze, silver, and gold stages, ensuring a robust framework for data quality and readiness
 
